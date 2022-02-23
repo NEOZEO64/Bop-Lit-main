@@ -32,7 +32,8 @@ Okay so this should be a quick and fun Arduino Project -
 ## Possible Microcontrollers (best with Python and battery-charger and boost)
 * [Adafruit Feather M0 Python incl. bat-chg-boost](https://shop.pimoroni.com/products/adafruit-feather-m0-express-designed-for-circuitpython-atsamd21-cortex-m0?variant=40768798794)
 * [Adafruit Feather RP2040 Python incl. bat-chg-boost](https://www.adafruit.com/product/4884)
-* 
+* ...or just a boring arduino uno/mega from the sfz....
+* ...or a Feather BLE we already bought...
 
 ## Extras
 * Rumble Motor (DIY with normal Motors?)
@@ -53,4 +54,12 @@ Okay so this should be a quick and fun Arduino Project -
 # First steps
 1. Decide which sensors to choose
 2. Decide which microcontroller
+3. Record saying tasks (and other funny sounds when doing the activity)
+4. Test sensors and prepare arduino sketches/python programs to easily read them out
+5. Prepare arduino sketch/python program of how the microcontroller should load and play the mp3/wav from the sd card
+6. Plan how the thing should look like (and where the microcontroller should sit, etc.)
+7. Design the Case
+8. Print the Case
+9. Solder together all the parts
+10. Assemblyyyyyy
 
