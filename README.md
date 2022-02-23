@@ -34,21 +34,23 @@ Okay so this should be a quick and fun Arduino Project -
 * [Adafruit Feather RP2040 Python incl. bat-chg-boost](https://www.adafruit.com/product/4884)
 * 
 
-## Extras:
+## Extras
 * Rumble Motor (DIY with normal Motors?)
   * On while action is running
   * Off while action is not running (a speaker should tell the next task at this time)
 
-# Needed parts:
+# Needed parts to buy
 * Microcontroller (still to be decided)
 * Sensors (still to be decided)
 * Battery charger and booster (if not included in Microcontroller)
 * Audio + SD card module
+* SD-Card
+* Speaker
 * LiPo Battery
 * Vibration Motors
 
 
-# First steps:
+# First steps
 1. Decide which sensors to choose
 2. Decide which microcontroller
 
