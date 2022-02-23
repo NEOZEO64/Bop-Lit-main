@@ -31,7 +31,7 @@ Okay so this should be a quick and fun Arduino Project -
 
 ## Possible Microcontrollers (best with Python and battery-charger and boost)
 * [Adafruit Feather M0 Python incl. bat-chg-boost](https://shop.pimoroni.com/products/adafruit-feather-m0-express-designed-for-circuitpython-atsamd21-cortex-m0?variant=40768798794)
-* [Adafruit Feather RP2040 Python incl. bat-chg-boost] (https://www.adafruit.com/product/4884)
+* [Adafruit Feather RP2040 Python incl. bat-chg-boost](https://www.adafruit.com/product/4884)
 * 
 
 ## Extras:
